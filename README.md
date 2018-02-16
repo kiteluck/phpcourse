@@ -1,1 +1,1 @@
-phpcourse
+Cours de PHP
